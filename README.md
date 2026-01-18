@@ -1,4 +1,4 @@
-# =LOVE – 僕らの制服クリスマス
+# =LOVE – 僕らの制服クリスマス - Bokurano Seifuku Christmas
 
 > **歌詞登録ステータス：同期歌詞あり**
 
